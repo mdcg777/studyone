@@ -7,7 +7,7 @@
 
 comment.log 为test.js运行测试后生成的目标数据文件。
 
-cookies.txt 为test.js运行时获取cookie的文件，此文件存放cookie字符串，也可以直接将cookie字符串在test.js中固定写死，cookie可长期使用，非必要不更换。
+cookies.txt 为test.js运行时获取cookie的文件，此文件存放cookie字符串，也可以直接将cookie字符串在test.js中固定写死，从 。。。/aweme/v1/web/aweme/detail/?device_platform 地址中获取的cookie可长期使用。
 
 uri.js 为 test.js 运行时读取目标url的文件，此文件存放目标url数据。
 
