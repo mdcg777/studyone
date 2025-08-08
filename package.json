@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "cookie": "^1.0.2",
+    "fast-csv": "^5.0.2",
+    "random-int": "^3.0.0",
+    "request": "^2.88.2",
+    "sync-request": "^6.1.0"
+  }
+}
